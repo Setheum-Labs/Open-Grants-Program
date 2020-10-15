@@ -1,117 +1,79 @@
-Open Grant Proposal
+Setheum DeFi & DeCo Network by Setheum Labs
 
-    This document is referenced in the terms and conditions and therefore needs to contain all the required information. Don't remove any of the mandatory parts presented in bold letters or as headlines! See the Open Grants Program Process on how to submit a proposal.
+Setheum Labs props, supports, nurtures and stewards applications in the fields of Decentralized Finance protocols particularly e-commerce and protocols that can serve as open finance building blocks such as stable currency and synthetic assets. Setheum Network is a focal R&D project initiated the Setheum Labs. Setheum Labs is founded by Muhammad-Jibril B.A. participant of the Polkadot ecosystem.
 
-    Project: The name of the project
-    Proposer: GitHub username
-    Payment Address: BTC payment address. We don't accept payments for the program in other currencies at this stage.
+Project Description
 
-The above combination of your GitHub account and payment address will be your unique identifier during the program. Please keep them safe.
-Project Overview 📄
+We are building a decentralized, cross-chain, community-owned DeFi (Decentralized Finance) and DeCo (Decentralized Commerce) system - the Setheum Network, to enable true economic interoperability, cross-chain liquidity and scalability. Along with the system, we are also building an economic model and governance framework to sustain the development, and continuous participation in the Polkadot ecosystem (e.g. as parachain and will setup a non-profit foundation to foster development on the Polkadot Ecosystem - especially in Nigeria and Saudi Arabia), until ultimately transitioning the network to community ownership. The Setheum Network will serve as a building block for DeCo and DeFi applications such as SettIndex in the Polkadot Ecosystem, and will provide new use cases for quality assets in the Polkadot ecosystem, such as DOT and new upcoming Polkadot projects such as Kylin, ChainLink, Open Ethereum et al..
 
-If this application in response to an RFP then please indicate this on the first line of this section.
-Overview
+The Setheum Network will include the following parts
 
-Please provide the following:
+    An economic model for the Acala Network and IPO plan et al.
+    The STP258 (Setheum Tokenization Protocol [to-fiat]) Stablecoin Standard Module: 34 fiat currencies that can be spent on SettPay and are also represented in a basket token.
+    The SERP (Setheum Elastic Reserve Protocol) Token Elasticity Module: Designed to make cryptocurrencies that are backed by other cryptocurrencies with the PES (Price Elasticity of Supply) algorithm utilized for token elasticity of supply (TES) algorithm.
+    Setheum Chain using Substrate to enable all in one DeFi & DeCo development and interoperability including the following modules:
+        The STP258 Module, which we are developing and is open-sourced for the community to use and build upon
+        The SERP Module, which we are developing and is open-sourced for the community to use and build upon
+        Various modules specific to manage Distribution of Cashbacks, Ecommerce payment, et al.
+    Setheum Network SDKs: to empower developer community to build upon and integrate with the Setheum Network
+    SettPay: pay on ecommerce platforms with cryptocurrency, to enable minting of STP258 stablecoins, peer to peer transactions, and later on in the near future we will add Subsocial in the SettPay Dapp as a micro-service just like Alipay chat in AliPay, etc.
 
-    A brief description of the project.
-    An indication of how you will integrate this project into Substrate / Polkadot / Kusama.
-    An indication of why your team is interested in creating this project.
+The Setheum Labs Team
 
-Project Details
-
-We expect the teams to already have a solid idea about the project's expected final state.
-
-Therefore, we ask the teams to submit (where relevant):
-
-    Mockups/designs of any UI components
-    API specifications of the core functionality
-    An overview of the technology stack to be used
-    Documentation of core components, protocols, architecture etc. to be deployed
-    PoC/MVP or other relevant prior work or research on the topic
-
-Ecosystem Fit
-
-Are there any other projects similar to yours? If so, how is your project different?
-Team 👥
-Team members
-
-    Name of team leader
-    Names of team members
+    Muhammad-Jibril B.A. [Jibril Bashir Abba] (Founder, CEO, CTO)
+    Valentine Oragbakosi (Core Rust Developer | Full-time)
+    Khadija Bashir Galadanchi (Director of Community Development | Full-time)
+    Bashir A. Galadanci (Director of Enterprise & Banking      | Part-time)
+    Bashir Adamu (Advisor of Government Relations & Accounting     | Part-time)
+    Full-time UX/UI Designer        - hiring
+    Full-time Full-stack Developer  - hiring
+    Full-time Front-end Developer   - hiring
+    Full-time Operations            - hiring
+    Full-time Product manager       - hiring
 
 Team Website
 
-    https://<your_domain>
+    https://setheum.xyz
 
 Legal Structure
 
-Please provide the name and registered address of the legal entity executing the project.
+The legal structure of the Setheum Labs will be set up soon in a Crypto Favourable Legislation after the grant is issued.
+
 Team's experience
 
-Please describe the team's relevant experience. If the project involves development work, then we'd appreciated if you can single out a few interesting code commits made by team members on their past projects. For research-related grants, references to past publications and projects in a related domain are helpful.
+    Jibril is the Founder of Slixon Technologies, the co-founder and Director of Technology at Obelisk Integrated Services - A Real Estate, Oil, Agriculture and Logistics Conglomerate in Nigeria, Director of Technology at Basmam Traveling Agency, Advisor at Workman.ng, EnvestLab and Northflix.ng. He is an early Bitcoin & Blockchain enthusiast, a self taught cyber security analyst, Economist, Cryptographer, Entrepreneur, Full-Stack Developer, Software Engineer, Blockchain Developer, who has taken a year to design and architect the best approach to build a scalable TES mechanism for the STP258 Stablecoins and the best token economics that could sustain the Setheum Economy, the SERP Protocol which we will implement as a Substrate Module for the Open Source Community from inception to implementation. He once led An Oil Company in Nigeria that led to over 300% increase in sales in 1 month. He was a Google Developers Group early Nigerian community organizer. An Entrepreneur with experience in startups and Real Estate from the age of 16. High School Engineering Community Leader, and Informatics Academy Java and Web Development Leader, graduated from Informatics Academy with IDITC and studying BSc. Computer Science in Weifang University of Science and Technology in Shandong, China.
+
+    Valentine holds a Bachelor's degree in Software Engineering from Sichuan University. He has 4-years of experience in blockchain core development. He was formerly a senior engineer at Meituan, a core developer at Hashgard public chain, and Cosmos contributor. He is Substrate Framework early researcher.
+
+    Khadija has a Bachelor's degree in Sociology from Al-Qalam University. She is the co-founder of Slixon Technologies and the earliest investor in the then Music Streaming Startup and.
+
+    Bashir A. Galadanci has _years of Banking experience and Corporate Relations operations. He is proficient in Enterprise Banking and Finance. He holds a Degree in Architecture from Bayero University, Kano. He was former Head Registrar and Operations manager at Unity Bank, responsible for funds registration & allocation, funds retrieval, clientele management, and growth. He is experienced in maintaining Banking resources and relations, Initiating and managing Corporate & Enterprise Clientele and Aliances.
+    
+    Bashir Adamu has _years of Accounting experience and Sales & Marketing operations. He is proficient in Accounting and Finance. He holds a Degree in Accounting and Finance. He is an Entrepreneur,  former Principal Manager at Unity Bank - responsible for Planning, prioritizing and overseeing project management activities in an effective manner, preparing budgets, determine timelines, and identify resources. Understands customer requirements clearly and develops Financial & Accounting project plans, scope and deliverables.
+
 Team Code Repos
 
-    https://github.com/<your_repo_1>
-    https://github.com/<your_repo_2>
+    Setheum Network Implementation
+    Setheum Whitepapers
 
 Team LinkedIn Profiles
 
-    https://www.linkedin.com/<person_1>
-    https://www.linkedin.com/<person_2>
+    Muhammad-Jibril: https://www.linkedin.com/in/muhammad-jibril/
+    Valentine Oragbakosi: https://www.linkedin.com/in/valentine-oragbakosi-270604120/
+    Khadija Bashir Galadanchi: NA
+    Bashir A. Galadanci : NA
+    Bashir Adamu: NA
+    
+Team Github Profiles
 
-Development Roadmap 🔩
+    Antonia Chen: https://github.com/JBA-Khalifa
+    Valentine Oragbakosi: https://github.com/Valentine-Mario
+    
+    Khadija Bashir Galadanchi: NA
+    Bashir A. Galadanci : NA
+    Bashir Adamu: NA
 
-This section should break out the development roadmap into a number of milestones. Since the milestones will appear in the grant contract, it helps to describe the functionality we should expect, plus how we can check that such functionality exists in the product. Whenever milestones are delivered, we refer to the contract to ensure that everything has been delivered as expected.
+Development Roadmap
 
-Below we provide an example roadmap. In the descriptions it should be clear how the project is related to Substrate and/or Polkadot. We recommend that the scope of the work can fit within a 3 month period and that teams structure their roadmap as 1 month = 1 milestone.
-
-For each milestone:
-
-    Please be sure to include a specification of the software. The level of detail must be enough so that we are able to verify that the software meets the specification.
-    Please include total amount of funding requested per milestone.
-    Please note that we require documentation (e.g. tutorials, API specifications, architecture details) in each milestone. This ensures that the code can be widely used by the community.
-    Please provide a test suite, comprising unit and integration tests, along with a guide on how to run these.
-    Please commit to providing a dockerfiles for the delivery of your project.
-    Please indicate the milestone duration, as well as number of Full-Time Employees working on each milestone, and include the number of days along with their cost per day.
-
-Overview
-
-    Total Estimated Duration: Duration of the whole project
-    Full-time equivalent (FTE): Workload of an employed person (see)
-    Total Costs: Amount of Payment in BTC for the whole project. The total amount of funding needs to be below $30k at the time of submission.
-
-Milestone 1 Example — Implement Substrate Modules
-
-    Estimated Duration: 1 month
-    FTE: 1
-    Costs: 0.75 BTC
-
-Number 	Deliverable 	Specification
-0a. 	License 	Apache 2.0 / MIT / Unlicense
-0b. 	Documentation 	We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Substrate nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works.
-0c. 	Testing Guide 	The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide we will describe how to run these tests
-1. 	Substrate module: X 	We will create a Substrate module that will... (Please list the functionality that will be coded for the first milestone)
-2. 	Substrate module: Y 	We will create a Substrate module that will...
-3. 	Substrate module: Z 	We will create a Substrate module that will...
-4. 	Substrate chain 	Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible)
-5. 	Docker 	We will provide a dockerfile to demonstrate the full functionality of our chain
-Milestone 2 Example — Additional features
-
-...
-Community engagement
-
-As part of the Program, we require that you produce an article/tutorial and publish it (for example on Medium). It should explain your work done as part of the grant.
-
-Normally, we ask you to submit the write-up upon the completion of your grant, although for larger projects it might make sense to publish multiple articles after the completion of different milestones.
-Future Plans
-
-Please include the team's long-term plans and intentions.
-Additional Information ➕
-
-Any additional information that you think is relevant to this application that hasn't already been included.
-
-Possible additional information to include:
-
-    What work has been done so far?
-    Are there are any teams who have already contributed (financially) to the project?
-    Have you applied for other grants so far?
+The Setheum Network MVP will be a 3-month project, aims to deliver a running Substrate chain testnet providing algorithmically elastic stablecoins - the STP258 Sett tokens, the Setheum Built-In DEX for margin trading, liquidity staking with basic (council type) governance. Upon the testnet launch, we will implement a basic version of its economic model and work towards a Canary Network Launch and an Initial Parachain Offering of the Canary network on Kusama. And then work towards an Initial Parachain Offering of the Mainnet of Setheum network, participation in the IPO auction will depend upon the readiness of the Polkadot network.
+ 
