@@ -55,8 +55,8 @@ Team's experience
 
 Team Code Repos
 
-    Setheum Network Implementation
-    Setheum Whitepapers
+    Setheum Network Substrate Node Implementation:    https://github.com/Setheum-Labs/Setheum
+    Setheum Whitepapers:                              https://github.com/Setheum-Labs/Setheum-Labs-White-Papers
 
 
 Team LinkedIn Profiles
@@ -74,13 +74,13 @@ Overview
 
     Total Estimated Duration:   12 weeks
     Full-time equivalent (FTE): 1.5
-    Total Costs:                2.64 BTC
+    Total Costs:                2.87 BTC
 
 Milestone 1 — The MVP
 
     Estimated Duration: 12 weeks
     FTE:                1.5
-    Costs:              2.64 BTC
+    Costs:              2.87 BTC
 
 Team's experience
     Jibril is the Founder of Setheum Labs and Slixon Technologies (an ecommerce startup), the chief economist and chief researcher of Setheum, the co-founder and Director of Technology at Obelisk Integrated Services, Director of Technology at Basmam Traveling Agency, Advisor at Workman.ng, EnvestLab and Northflix.ng. He is an early Bitcoin & Blockchain enthusiast, a self taught Polyglot, cyber security analyst, Economist, Entrepreneur, Full-Stack Developer, Software Engineer, Blockchain Developer, who has taken a year to design and architect the best approach to build a scalable TES mechanism for the STP258 Stablecoins and the best token economics that could sustain the Setheum Economy, the SERP Protocol which we will implement as a Substrate Module for the Open Source Community from inception to implementation. He was a Google Developers Group early Nigerian community contributor. Self-taught Cryptographer, Rust developer, Java, C, C++, JaaScript, ReactJS, VueJS, TypeScript, PostgreSQL DevOps Engineer. An Entrepreneur with experience in startups and business development, graduated from Informatics Academy with IDITC and studying BSc. Computer Science in Weifang University of Science and Technology in Shandong, China.
@@ -133,3 +133,4 @@ Development Roadmap
 
 The Setheum Network MVP will be a 12 week project, aims to deliver a running MVP Substrate chain testnet providing algorithmically elastic stablecoins - the STP258 Sett tokens. Upon the testnet launch, we will implement a basic version of its economic model and work towards a Canary Network Launch and an Initial Parachain Offering of the Canary network on Kusama. And then work towards launching the Mainnet with all of the future plans we provided above and move towards an Initial Parachain Offering (IPO) of the Mainnet of Setheum network, participation in the IPO auction will depend upon the readiness of the Polkadot network.
 
+ We are providing the Entire Project under the Apache 2.0 license.
