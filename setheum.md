@@ -55,8 +55,8 @@ Team's experience
 
 Team Code Repos
 
-    Setheum Network Implementation
-    Setheum Whitepapers
+    Setheum Network Substrate Node Implementation:    https://github.com/Setheum-Labs/Setheum
+    Setheum Whitepapers:                              https://github.com/Setheum-Labs/Setheum-Labs-White-Papers
 
 
 Team LinkedIn Profiles
